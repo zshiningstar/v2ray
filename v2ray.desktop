@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=bash -i -c /home/star/桌面/Qv2ray/Qv2ray.v2.6.3.AppImage
+Name=v2ray
+GenericName=V2RAY
+Icon=/home/star/桌面/Qv2ray/icon.jpg
+Terminal=false
+Categories=Development
